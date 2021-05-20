@@ -95,3 +95,10 @@ S13
 	Mixing simulation data is located in Laminar_Flow_TRSAXS/mixing.csv
 
 
+
+Additional notes:
+Raw SAXS processing scripts which perform background subtration and averaging can be found here:
+	SAXS_primary_data_processing
+
+Unprocessed data files can be downloaded here:
+	https://www.dropbox.com/s/6l1m2fmuujbvq91/2021_Martin_et_al_Nature_Communications.zip?dl=0
